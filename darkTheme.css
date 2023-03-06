@@ -110,20 +110,24 @@
          background-color: #252525 !important;
     }
     
-    .course-summaryitem, .moodle-has-zindex, .filter-group {
+    .course-summaryitem,
+    .moodle-has-zindex,
+    .filter-group,
+    .message-app {
         background-color: #222 !important;
         color: #e6e6e6 !important;
         border-color: #222 !important;
         border-radius: 10px;
     }
     
-    .bg-gray, .page-link {
+    .bg-gray, .page-link, .bg-light {
         background-color: #555 !important;
         border-color: #666 !important;
         color: #e6e6e6 !important;
         transition: color 0.2s ease-in-out;
         transition: background-color 0.2s ease-in-out;
     }
+
     .bg-gray:hover {
         background-color: #333 !important;
     }
